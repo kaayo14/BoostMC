@@ -1,0 +1,22 @@
+# Tutorial - Desempenho Máximo 
+
+----------------------
+
+1) aperte a tecla windows 
+ 
+2) pesquise por "configurações de energia e suspensão" 
+ 
+3) após isso aperte em configurações de energia adicionais: https://cdn.discordapp.com/attachments/832500280724684820/836536684056412220/unknown.png 
+ 
+4) https://cdn.discordapp.com/attachments/832500280724684820/836536881969233920/unknown.png 
+ 
+5) https://cdn.discordapp.com/attachments/832500280724684820/836537161334521876/unknown.png 
+ 
+apenas e compatível com windows 10 versao 1803 
+
+- obs: não é recomendável usar em notebooks, pois gastará a bateria muito rápido, porém ainda dará o desempenho prometido. 
+
+----------------------
+ 
+
+ 
